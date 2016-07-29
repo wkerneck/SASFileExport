@@ -50,7 +50,7 @@ Now that you have the "testscores.xls" file on your desktop you can now upload i
 
 #### Excel File                                                 
 
-To download and view the excel file click on the icon. [![click Here](images/excel.png)](https://github.com/wkerneck//blob/master/SASFileExport/data/testscores.xls)
+To download and view the excel file click on the icon. [![click Here](images/excel.png)](https://github.com/wkerneck/SASFileExport/blob/master/data/testscores.xls?raw=true)
 
 
 
