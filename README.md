@@ -10,7 +10,10 @@ July 28, 2016
 
 1. Import the following file into SAS. File: dataset1.sas7bdat
 2. Export the data to an excel file.
+3. Add in State Code to data set
+4. Add in the assigned data to the data set (Spending Per Student)
 3. Upload the excel file to Github.
+
 
 
 ****************************
@@ -40,10 +43,27 @@ Make sure you set the data = in the SAS proc export code to whatever the SAS dat
 
 ****************************
 
+#### Census Data
+
+Since I was assigned "Sudent Per Student" I searched the United States Census Bureau webisite. I came across the following excel tabel:
+
+[https://www.census.gov/govs/school/](https://www.census.gov/govs/school/)
+
+
+Note: this data is from 2014.
+
+****************************
+
 ####  Upload Excel file to github                          
 
 Now that you have the "testscores.xls" file on your desktop you can now upload it to your gitHub.
 
+
+****************************
+
+#### Modifications to the excel file
+
+I added in two columns to the excel file. The first column "B" is the state abbrivations. The second column "C" is the 2014 data I pulled from the Census website. I did change the format of column "C" to number format since this information is financial data.
 
 
 ****************************
